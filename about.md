@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Yoonsik Jung is a Ph.D Student in Industrial and Management Engineering, Korea University. His research interests are Mathematical Optimization, Operations Research, Smart Manufacturig, and Machine Learning.</p>
+<p>Yoonsik Jung is a Direct Ph.D Student in Industrial and Management Engineering, Korea University. His research interests are Mathematical Optimization, Operations Research, Smart Manufacturig, and Machine Learning.</p>
 
 <h3> Research Interests </h3>
 <b> Mathematical Optimization & Operations Research</b>
