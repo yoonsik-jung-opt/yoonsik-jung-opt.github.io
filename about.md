@@ -68,10 +68,10 @@ ol.conference li::before {
 
 <h3> Awards </h3>
 <ol>
-<li>3rd Prize, Matlab AI Student Challenge, The MahtWorks Korea, Korea (Oct. 2021)</li>
+<li>Matlab AI Student Challenge, 3rd Prize, The MahtWorks Korea, Korea (Oct. 2021)</li>
 <li>"게임 유저 이탈 예측 및 XAI 기반 초개인화 프로모션 제안", Award of Merit, Industrial Engineering Project Competition, Korean Institute of Industrial
 Engineers, Korea (Nov. 2019)</li>
-<li>Award of Distinction, Computer Simulation Competition, The Korea Society for Simulation,
+<li>Computer Simulation Competition, Award of Distinction, The Korea Society for Simulation,
 Korea (Apr. 2019)</li>
 <li>"Development of Algorithms for Reducing Touch Error in Two-Thumb Text Entry on a Soft Keyboard", Award of Merit, Ergonomics Capstone Design Award, Ergonomic Society of Korea, Korea (Nov.
 2018)</li>
@@ -88,6 +88,8 @@ Korea (Apr. 2019)</li>
 	<li>Gurobi</li>
 	<li>Linux</li>
 </ul>
+
+<!-- bundle exec jekyll serve -->
 
 <!-- <h2>Projects</h2>
 
