@@ -45,6 +45,7 @@ ol.conference li::before {
 
 <h3>Conferences </h3>
 <ol class="conference">
+	<li><b>Yoonsik Jung</b>, Hong Seo Ryoo, "Bipartite Graph for Logical Pattern Generation", 2023 Informs Annual Meeting, Pheonix, AZ, USA (Oct. 2023)</li>
 	<li>Dongwoo Kang, Sunung Kim, <b>Yoonsik Jung</b>, Hong Seo Ryoo, "Generating Interpretable Patterns
 	for Biomedical Image Classification", 2021 IEEE International Conference on Bioinformatics and
 	Biomedicine (BIBM), Virtual (Dec. 2021)</li>
