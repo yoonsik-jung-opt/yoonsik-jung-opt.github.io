@@ -8,7 +8,7 @@ layout: page
 
 <h3> Research Interests </h3>
 <b> Mathematical Optimization & Operations Research</b>
-<p> Using mathematical modeling and (meta-)heuristics, he designed a scheduling algorithm to minimize the ratio of work in process on the battery formation facility[C2][C5]. </p>
+<p> Using mathematical modeling and (meta-)heuristics, he designed a scheduling algorithm to minimize the ratio of work in process on the battery formation facility[C3][C6]. </p>
 
 <b> Smart Manufacturing & Machine Learning </b>
 <p> He predicted a wearing of machining tools, especially applying deep learning methods and signal decomposition processes such as Fourier transform and wavelet transform[C4][C6]. He also developed the interpretable machine learning model to predict churn of MMORPG(Massively Multiplayer Online Role-Playing Game) users. Furthermore, he proposed the integer programming based promotion strategy to improve retention of action role playing game 'Blade and Soul' from NCSOFT[Award 2].</p>
