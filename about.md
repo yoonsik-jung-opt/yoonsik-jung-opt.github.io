@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
-  Yoonsik Jung is a Ph.D. candidate in Industrial and Management Engineering at Korea University. His research spans mathematical optimization, operations research, smart manufacturing, and machine learning.
+  Yoonsik Jung is a Ph.D. candidate in Industrial and Management Engineering at Korea University. His research interests include mathematical optimization, operations research, smart manufacturing, and machine learning.
 </p>
 
 <h3>Research Interests</h3>
@@ -16,7 +16,7 @@ layout: page
 
 <b>Smart Manufacturing &amp; Machine Learning</b>
 <p>
-  He has applied deep learning methods along with signal decomposition techniques, such as Fourier and wavelet transforms, to predict tool wear in machining processes [C5][C7]. Additionally, he developed an interpretable machine learning model to predict churn among MMORPG users. Furthermore, he proposed an integer programming–based promotion strategy to enhance user retention for NCSOFT’s action role-playing game, <i>Blade and Soul</i> [Award 2].
+  He has applied deep learning methods along with signal decomposition techniques, such as Fourier and wavelet transforms, to predict tool wear in machining processes [C6][C8]. Additionally, he developed an interpretable machine learning model to predict churn among MMORPG users. Furthermore, he proposed an integer programming–based promotion strategy to enhance user retention for NCSOFT’s action role-playing game, <i>Blade and Soul</i> [Award 2].
 </p>
 
 <style>
