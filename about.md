@@ -44,12 +44,33 @@ layout: page
     width: 2em;
     margin-left: -2em;
   }
+  ol.papers li::before {
+    display: inline-block;
+    content: "P" counter(item) ".";
+    counter-increment: item;
+    width: 2em;
+    margin-left: -2em;
+  }
 </style>
+
+<h3>Papers</h3>
+<ol class="papers">
+  <li>
+    <b>Yoonsik Jung</b>, Hyejin Jang, Sunhye Kim, "Explainable AI for Player Retention: Hyper-Personalized Promotions to Prevent Game User Churn”, IEEE Transactions on Games, Under Review
+  </li>
+  <li>
+    Dongwoo Kang, Sunung Kim, Eunhyo Kim, Sangkyun Noh, Hong Seo Ryoo, Kanguk Lee, <b>Yoonsik Jung<b>, "Maintenance Strategy of Semiconductor Equipment under Limited Data Conditions:A Survival Analysis Approach", KOREAN MANAGEMENT SCIENCE REVIEW, (2025)
+  </li>
+</ol>
+
 
 <h3>Conferences</h3>
 <ol class="conference">
+  <li>
+    <b>Yoonsik Jung</b>, Hong Seo Ryoo, "An Online Framework for Logical Analysis of Data with Dynamic Cutpoint Generation and Incremental Pattern Refinement”, APIEMS & SMILE 2025, Hangzhou, China (Nov. 2025)
+  </li>
 	<li>
-    <b>Yoonsik Jung</b>, Hong Seo Ryoo, Overcoming Spatial Feature Limitations in Image Classification through Convolutional Logical Analysis of Data”, 2024 INFORMS Annual Meeting, Seattle, WA, USA (Oct. 2024)
+    <b>Yoonsik Jung</b>, Hong Seo Ryoo, "Overcoming Spatial Feature Limitations in Image Classification through Convolutional Logical Analysis of Data”, 2024 INFORMS Annual Meeting, Seattle, WA, USA (Oct. 2024)
   </li>
   <li>
     <b>Yoonsik Jung</b>, Hong Seo Ryoo, “Bipartite Graph for Logical Pattern Generation”, 2023 INFORMS Annual Meeting, Phoenix, AZ, USA (Oct. 2023)
