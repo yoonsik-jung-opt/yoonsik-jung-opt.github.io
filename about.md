@@ -44,6 +44,11 @@ layout: page
     width: 2em;
     margin-left: -2em;
   }
+  ol.papers li {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-left: 2em;
+  }
   ol.papers li::before {
     display: inline-block;
     content: "P" counter(item) ".";
