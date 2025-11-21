@@ -59,7 +59,7 @@ layout: page
     <b>Yoonsik Jung</b>, Hyejin Jang, Sunhye Kim, "Explainable AI for Player Retention: Hyper-Personalized Promotions to Prevent Game User Churn”, IEEE Transactions on Games, Under Review
   </li>
   <li>
-    Dongwoo Kang, Sunung Kim, Eunhyo Kim, Sangkyun Noh, Hong Seo Ryoo, Kanguk Lee, <b>Yoonsik Jung<b>, "Maintenance Strategy of Semiconductor Equipment under Limited Data Conditions:A Survival Analysis Approach", KOREAN MANAGEMENT SCIENCE REVIEW, (2025)
+    Dongwoo Kang, Sunung Kim, Eunhyo Kim, Sangkyun Noh, Hong Seo Ryoo, Kanguk Lee, <b>Yoonsik Jung</b>, "Maintenance Strategy of Semiconductor Equipment under Limited Data Conditions:A Survival Analysis Approach", KOREAN MANAGEMENT SCIENCE REVIEW, (2025)
   </li>
 </ol>
 
