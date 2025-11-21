@@ -11,12 +11,12 @@ layout: page
 <h3>Research Interests</h3>
 <b>Mathematical Optimization &amp; Operations Research</b>
 <p>
-  Leveraging mathematical modeling and meta-heuristic techniques, he has designed a scheduling algorithm aimed at minimizing the work‐in‐process ratio at battery formation facilities [C4][C7].
+  Leveraging mathematical modeling and meta-heuristic techniques, he has designed a scheduling algorithm aimed at minimizing the work‐in‐process ratio at battery formation facilities [C5][C8].
 </p>
 
 <b>Smart Manufacturing &amp; Machine Learning</b>
 <p>
-  He has applied deep learning methods along with signal decomposition techniques, such as Fourier and wavelet transforms, to predict tool wear in machining processes [C6][C8]. Additionally, he developed an interpretable machine learning model to predict churn among MMORPG users. Furthermore, he proposed an integer programming–based promotion strategy to enhance user retention for NCSOFT’s action role-playing game, <i>Blade and Soul</i> [Award 2].
+  He has applied deep learning methods along with signal decomposition techniques, such as Fourier and wavelet transforms, to predict tool wear in machining processes [C7][C9]. Additionally, he developed an interpretable machine learning model to predict churn among MMORPG users. Furthermore, he proposed an integer programming–based promotion strategy to enhance user retention for NCSOFT’s action role-playing game, <i>Blade and Soul</i> [Paper 1][Award 2]. More recently, he has extended these data-driven approaches to semiconductor manufacturing by proposing a maintenance strategy for wafer fabrication equipment under limited data conditions using survival analysis [P2].
 </p>
 
 <style>
